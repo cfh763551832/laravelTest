@@ -11,8 +11,6 @@
 
 <p>Hello wechat</p>
 <p>Hello 这是master修改的地方</p>
-<p>Hello 这是wechat分支修改的地方</p>
-
-
+<p>Hello 这是wechat分支修改的地方 dev添加的内容</p>
 </body>
 </html>
